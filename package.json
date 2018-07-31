@@ -1,13 +1,13 @@
 {
-  "name": "interfaced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "intr",
+  "version": "0.1.0",
+  "description": "Run-time tool for enforcing interface implementation in JavaScript",
+  "main": "src/intr.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "jest": "^23.4.2"
