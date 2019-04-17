@@ -22,7 +22,7 @@ class Test extends intr([Greeter, Serializable]) {
   }
 
   serialize() {
-      return 'serialized
+      return 'serialized'
   }
 }
 ```
